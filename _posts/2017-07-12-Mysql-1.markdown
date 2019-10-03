@@ -3,7 +3,7 @@ layout:     post
 title:      "PHP面试-Mysql篇(一)"
 subtitle:   " PHP-Mysql"
 date:       2017-07-13 15:09:00
-author:     "cuizhazha"
+author:     "xunuo"
 header-img: ""
 header-bg-css: "linear-gradient(to right, #24b94a, #38ef7d);"
 catalog: true

@@ -3,7 +3,7 @@ layout: post
 title: "PHP面试技巧(-) 垃圾回收相关"
 subtitle: "PHP interview skills-garbage collection mechanism
 "
-author: "cuizhazha"
+author: "xuyujun"
 header-img: ""
 header-bg-css: "linear-gradient(to right, #24b94a, #38ef7d);"
 tags:

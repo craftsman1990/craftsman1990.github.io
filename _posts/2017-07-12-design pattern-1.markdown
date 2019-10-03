@@ -3,7 +3,7 @@ layout:     post
 title:      "PHP演绎设计模式-创建型模式"
 subtitle:   " 工厂模式，抽象工厂模式，单例模式，建造者模式，原型模式"
 date:       2017-07-12 14:16:05
-author:     "cuizhazha"
+author:     "xuyujun"
 header-img: ""
 header-bg-css: "linear-gradient(to right, #24b94a, #38ef7d);"
 catalog: true
