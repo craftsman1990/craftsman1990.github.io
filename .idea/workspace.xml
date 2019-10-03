@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81dc2d80-14a0-478e-8ea1-18bbe7cba0da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-    </list>
+    <list default="true" id="81dc2d80-14a0-478e-8ea1-18bbe7cba0da" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -413,7 +411,7 @@
       <option name="presentableId" value="Default" />
       <updated>1540464448831</updated>
       <workItem from="1570112954195" duration="533000" />
-      <workItem from="1570114165711" duration="133000" />
+      <workItem from="1570114165711" duration="276000" />
     </task>
     <task id="LOCAL-00004" summary="fetal:&quot;自我介绍&quot;">
       <created>1540469549617</created>
@@ -762,7 +760,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="666000" />
+    <option name="totallyTimeSpent" value="809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="279" y="26" width="1277" height="875" extended-state="0" />
